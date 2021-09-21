@@ -1,0 +1,57 @@
+.best_product{
+    text-align: center;
+    padding: 115px 0;
+}
+
+.title_bestProduct{
+  max-width: 666px;
+margin: 0 auto;
+}
+.title_bestProduct h1{
+    font-weight: 900;
+}
+.production{
+    margin-top: 70px;
+}
+.production ul{
+    padding: 0;
+    flex-wrap: wrap;
+}
+.production li {
+    flex-grow: 1;
+}
+.production li .img_production{
+    height: 508px;
+}
+.list_new{
+    position: relative;
+  top: -46px;
+left: -137px;
+}
+
+.go_need{
+    background: #f0f0f0;
+    color: black;
+    border: 2px solid black;
+    width: 300px;
+    padding :13px;
+    position: relative;
+bottom: 45px;
+left: 33px;
+ font-weight: 800;
+}
+.go{
+margin-left: 48px;
+}
+.go p{
+    background-color: black;
+   
+    padding: 15px;
+    border-radius: 50%;
+}
+.go p .text-link{
+color: #f0f0f0;
+}
+.go_need p{
+    margin: 0;
+}
